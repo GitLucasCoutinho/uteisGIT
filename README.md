@@ -1,0 +1,2 @@
+# uteisGIT
+Comandos úteis 
